@@ -25,5 +25,6 @@
   <img align="center" alt="Looker" height="30" width="40" src="https://www.svgrepo.com/show/354012/looker-icon.svg"/>
   <img align="center" alt="Metabase" height="30" width="40" src="https://www.svgrepo.com/show/354063/metabase.svg"/>
   <img align="center" alt="Azure" height="30" width="40" src="https://www.svgrepo.com/show/353467/azure-icon.svg"/>
+  <img align="center" alt="Azure" height="30" width="40" src="[https://www.svgrepo.com/show/353467/azure-icon.svg](https://banner2.cleanpng.com/20181110/vfu/kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-1713924082630.webp)"/>
   
 </div>
