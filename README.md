@@ -25,6 +25,6 @@
   <img align="center" alt="Looker" height="30" width="40" src="https://www.svgrepo.com/show/354012/looker-icon.svg"/>
   <img align="center" alt="Metabase" height="30" width="40" src="https://www.svgrepo.com/show/354063/metabase.svg"/>
   <img align="center" alt="Azure" height="30" width="40" src="https://www.svgrepo.com/show/353467/azure-icon.svg"/>
-  <img align="center" alt="Azure" height="30" width="40" src="https://icons8.com/icon/qYfwpsRXEcpc/power-bi"/>
+  <img align="center" alt="Azure" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png"/>
   
 </div>
