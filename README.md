@@ -8,6 +8,7 @@
 [![LInkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamelacristineamorim/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pamelacristtine@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/channels/pamela.cristine)
+[![Medium](https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=000000)]([https://discord.com/channels/pamela.cristine](https://medium.com/@pamelacristtine))
 
 ----
 ![Pâmela GitHub stats](https://github-readme-stats.vercel.app/api?username=pamelacristtine&show_icons=true&theme=tokyonight)
